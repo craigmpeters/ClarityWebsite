@@ -8,7 +8,7 @@ This Privacy Notice for Craig Peters ('**we**', '**us**', or '**our**'), describ
 
 * Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?**Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at <clarity@craigpeters.me>.
+\*\*Questions or concerns?\*\*Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at <clarity@craigpeters.me>.
 
 ## **SUMMARY OF KEY POINTS**
 
@@ -16,7 +16,7 @@ This Privacy Notice for Craig Peters ('**we**', '**us**', or '**our**'), describ
 
 **What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more aboutpersonal information you disclose to us.
 
-**Do we process any sensitive personal information?**Some of the information may be considered 'special' or 'sensitive' in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We do not process sensitive personal information.
+\*\*Do we process any sensitive personal information?\*\*Some of the information may be considered 'special' or 'sensitive' in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We do not process sensitive personal information.
 
 **Do we collect any information from third parties?** We do not collect any information from third parties.
 
@@ -33,8 +33,6 @@ This Privacy Notice for Craig Peters ('**we**', '**us**', or '**our**'), describ
 Want to learn more about what we do with any information we collect?Review the Privacy Notice in full.
 
 ## **TABLE OF CONTENTS**
-
-
 
 1\. WHAT INFORMATION DO WE COLLECT?
 
@@ -64,7 +62,7 @@ Want to learn more about what we do with any information we collect?Review the P
 
 ### **Personal information you disclose to us**
 
-***In Short:****We collect personal information that you provide to us.*
+\*\*\*In Short:\*\*\**We collect personal information that you provide to us.*
 
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
@@ -80,7 +78,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 ## **2. HOW DO WE PROCESS YOUR INFORMATION?**
 
-***In Short:****We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We process the personal information for the following purposes listed below. We may also process your information for other purposes only with your prior explicit consent.*
+\*\*\*In Short:\*\*\**We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We process the personal information for the following purposes listed below. We may also process your information for other purposes only with your prior explicit consent.*
 
 **We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
 
@@ -88,13 +86,13 @@ All personal information that you provide to us must be true, complete, and accu
 
 ## **3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
 
-***In Short:****We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e. legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfil our contractual obligations, to protect your rights, or to fulfil our legitimate business interests.*
+\*\*\*In Short:\*\*\**We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e. legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfil our contractual obligations, to protect your rights, or to fulfil our legitimate business interests.*
 
 ***If you are located in the EU or UK, this section applies to you.***
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-- **Consent.**We may process your information if you have given us permission (i.e. consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more aboutwithdrawing your consent.
+- \*\*Consent.\*\*We may process your information if you have given us permission (i.e. consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more aboutwithdrawing your consent.
 
 * **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
 
@@ -142,7 +140,7 @@ We may need to share your personal information in the following situations:
 
 ## **5. HOW LONG DO WE KEEP YOUR INFORMATION?**
 
-***In Short:****We keep your information for as long as necessary to fulfil the purposes outlined in this Privacy Notice unless otherwise required by law.*
+\*\*\*In Short:\*\*\**We keep your information for as long as necessary to fulfil the purposes outlined in this Privacy Notice unless otherwise required by law.*
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
 
@@ -150,7 +148,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
 ## **6. HOW DO WE KEEP YOUR INFORMATION SAFE?**
 
-***In Short:****We aim to protect your personal information through a system of organisational and technical security measures.*
+\*\*\*In Short:\*\*\**We aim to protect your personal information through a system of organisational and technical security measures.*
 
 We have implemented appropriate and reasonable technical and organisational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorised third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
@@ -161,8 +159,6 @@ We have implemented appropriate and reasonable technical and organisational secu
 In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. If a decision that produces legal or similarly significant effects is made solely by automated means, we will inform you, explain the main factors, and offer a simple way to request human review. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section 'HOW CAN YOU CONTACT US ABOUT THIS NOTICE?' below.
 
 We will consider and act upon any request in accordance with applicable data protection laws.
-
-
 
 If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority orUK data protection authority.
 
@@ -182,7 +178,7 @@ California law requires us to let you know how we respond to web browser DNT sig
 
 ## **9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
-***In Short:****If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.*
+\*\*\*In Short:\*\*\**If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.*
 
 ### **Categories of Personal Information We Collect**
 
@@ -338,7 +334,7 @@ California Civil Code Section 1798.83, also known as the 'Shine The Light' law, 
 
 ## **10. DO WE MAKE UPDATES TO THIS NOTICE?**
 
-***In Short:****Yes, we will update this notice as necessary to stay compliant with relevant laws.*
+\*\*\*In Short:\*\*\**Yes, we will update this notice as necessary to stay compliant with relevant laws.*
 
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated 'Revised' date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
